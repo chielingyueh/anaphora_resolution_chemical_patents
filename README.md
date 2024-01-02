@@ -60,4 +60,3 @@ Note: one can use the ```running-model.ipynb```
 ## References
 
 - [Enriching Pre-trained Language Model with Entity Information for Relation Classification](https://arxiv.org/abs/1905.08284)
-- https://github.com/monologg/R-BERT
