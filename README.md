@@ -2,7 +2,7 @@
 
 ## Model Architecture
 
-[Enriching Pre-trained Language Model with Entity Information for Relation Classification](https://arxiv.org/abs/1905.08284)
+[Stress Testing BERT Anaphora Resolution Models for Reaction Extraction in Chemical Patents](https://arxiv.org/abs/2306.13379)
 
 <p float="left" align="center">
     <img width="600" src="https://user-images.githubusercontent.com/28896432/68673458-1b090d00-0597-11ea-96b1-7c1453e6edbb.png" />  
@@ -59,4 +59,4 @@ Note: one can use the ```running-model.ipynb```
 
 ## References
 
-- [Enriching Pre-trained Language Model with Entity Information for Relation Classification](https://arxiv.org/abs/1905.08284)
+- [Stress Testing BERT Anaphora Resolution Models for Reaction Extraction in Chemical Patents](https://arxiv.org/abs/2306.13379)
